@@ -1,1 +1,10 @@
 # Skills-
+
+HTML
+CSS
+JAVA SCRIPT
+PYTHON
+JSON
+
+
+
